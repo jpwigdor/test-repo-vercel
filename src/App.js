@@ -32,7 +32,7 @@ function App() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          This project
+          This thing
         </a>{' '}
         was bootstrapped with{' '}
         <a href="https://facebook.github.io/create-react-app/">
